@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - main block or Entry point
  * print word to output
  * Reaturn: Always 0 (sucess)
  */
