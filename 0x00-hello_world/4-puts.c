@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * print word to output
- * Reaturn: 0
+ * Reaturn: Always 0 (sucess)
  */
 
 int main(void)
