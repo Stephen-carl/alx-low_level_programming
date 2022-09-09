@@ -2,7 +2,8 @@
 
 /**
  * main - Entry point
- *Reaturn: 0
+ * print word to output
+ * Reaturn: 0
  */
 
 int main(void)
