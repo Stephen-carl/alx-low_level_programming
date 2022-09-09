@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - main block or Entry point
+ * main - Entry point
  * print word to output
- * Reaturn: Always 0 (sucess)
+ * Return: Always 0 (sucess)
  */
 
 int main(void)
